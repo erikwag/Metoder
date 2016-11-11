@@ -30,7 +30,7 @@ namespace MetoderOchFunktioner
             double Celcius = double.Parse(Console.ReadLine());
             CelciusTillFarenheit(Celcius);
 
-            //Övning2
+            //Övning2 
 
 
 
